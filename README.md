@@ -1,8 +1,3 @@
-
-**danglinh2k1/danglinh2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👨‍💻 Currently an IT student.
 - 🌱 I am a sociable and friendly person.
 - 👯 I am a person who tends to work with a good team.
